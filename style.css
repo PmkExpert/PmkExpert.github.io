@@ -57,6 +57,7 @@ body {
 }
 #iyxi6{
   font-size:30px;
+  color:lightgrey;
 }
 #ihour{
   font-size:40px;
@@ -68,6 +69,7 @@ body {
 #i4xpx{
   padding:10px;
   font-size:30px;
+  color:lightgrey;
 }
 @media (max-width: 768px){
   .gjs-row{
