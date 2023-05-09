@@ -67,6 +67,7 @@ body {
 }
 #i4xpx{
   padding:10px;
+  font-size:30px;
 }
 @media (max-width: 768px){
   .gjs-row{
